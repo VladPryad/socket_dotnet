@@ -1,0 +1,13 @@
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+C:\Папочка\Programming\Projects\C#\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
